@@ -22,7 +22,7 @@
 
 <h3>Documentation</h3>
 
-[Documentation]([https://drive.google.com/file/d/1jo66Q4nRzDkRkaLI2hnbtSdnA8Z-7xqj/view?usp=sharing])
+[Documentation](https://drive.google.com/file/d/1jo66Q4nRzDkRkaLI2hnbtSdnA8Z-7xqj/view?usp=sharing)
 
 
 <h3>Installation</h3>
