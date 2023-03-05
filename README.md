@@ -1,6 +1,6 @@
 <h1>Our code is temporarily available on Drive!!!</h1>
 <h1>Mined_Hackathon</h1>
-<h2>Reducing desk rejections for researchers (CACTUS).</h2>
+<h2>Reducing desk rejections for researchers after journal submission (CACTUS).</h2>
 <h2>Team name : Slytherin Synapsis</h2>
 
 **Sponsor** : CACTUS (Paperpal)<br>
