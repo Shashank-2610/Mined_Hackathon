@@ -11,7 +11,7 @@
 * Many times, researchers get their manuscripts rejected due to the failure of many minor and significant checks, and nearly 30 to 40% get rejected outright even before it is sent for review by peers.
 <br>
 * Our project helps the researchers get their manuscripts checked which reduces the chances of manuscripts getting rejected before it is sent for review by peers.<br>
-## Features
+<h3>Features</h3>
 
 - [Anonymizing Authors](https://linktodocumentation)
 - [AI generated content checker](https://linktodocumentation)
@@ -20,12 +20,12 @@
 - [Retracted Papers in References](https://linktodocumentation)
 
 
-## Documentation
+<h3>Documentation</h3>
 
-[Documentation](https://linktodocumentation)
+[Documentation]([https://linktodocumentation](https://drive.google.com/file/d/1jo66Q4nRzDkRkaLI2hnbtSdnA8Z-7xqj/view?usp=sharing))
 
 
-## Installation
+<h3>Installation</h3>
 
 Install required dependencies
 
@@ -40,13 +40,13 @@ Run api
 ```
 
 
-## Screenshots
+<h3>Screenshots</h3>
 
 ![App Screenshot](images/ss1.png)
 ![App Screenshot](images/ss3.png)
 
 
-## Authors
+<h3>Authors</h3>
 
 - [@BhargavModha](https://www.github.com/bhargav-modha)
 - [@AkshayPatel](https://www.github.com/akshaypatel67)
