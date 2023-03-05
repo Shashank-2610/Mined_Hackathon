@@ -13,11 +13,11 @@
 * Our project helps the researchers get their manuscripts checked which reduces the chances of manuscripts getting rejected before it is sent for review by peers.<br>
 <h3>Features</h3>
 
-- [Anonymizing Authors](https://linktodocumentation)
-- [AI generated content checker](https://linktodocumentation)
-- [Image Quality Checker](https://linktodocumentation)
-- [Spell Checker](https://linktodocumentation)
-- [Retracted Papers in References](https://linktodocumentation)
+- [Anonymizing Authors]
+- [AI generated content checker]
+- [Image Quality Checker]
+- [Spell Checker]
+- [Retracted Papers in References]
 
 
 <h3>Documentation</h3>
