@@ -1,16 +1,16 @@
 <h1>Our code is temporarily available on Drive!!!</h1>
-# Mined_Hackathon
-# Reducing desk rejections for researchers (CACTUS).
-### Team name : Slytherin Synapsis
+<h1>Mined_Hackathon</h1>
+<h2>Reducing desk rejections for researchers (CACTUS).</h2>
+<h2>Team name : Slytherin Synapsis</h2>
 
-**Sponsor** : CACTUS (Paperpal)
+**Sponsor** : CACTUS (Paperpal)<br>
 
-**Track Number** : 1
+**Track Number** : 1<br>
 
 
 * Many times, researchers get their manuscripts rejected due to the failure of many minor and significant checks, and nearly 30 to 40% get rejected outright even before it is sent for review by peers.
-
-* Our project helps the researchers get their manuscripts checked which reduces the chances of manuscripts getting rejected before it is sent for review by peers.
+<br>
+* Our project helps the researchers get their manuscripts checked which reduces the chances of manuscripts getting rejected before it is sent for review by peers.<br>
 ## Features
 
 - [Anonymizing Authors](https://linktodocumentation)
